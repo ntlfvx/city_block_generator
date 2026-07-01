@@ -1,0 +1,62 @@
+# =========================
+# Blender files (optional)
+# =========================
+*.blend1
+*.blend2
+*.blend@
+*.blend1@
+*.blend2@
+
+# If you don't want to commit .blend files, uncomment:
+# *.blend
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Blender cache / temp
+# =========================
+*.blend@
+*.blend1@
+*.blend2@
+*.bphys
+*.bak
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+*.code-workspace
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs / exports (optional)
+# =========================
+*.log
+*.csv
+*.json
+*.txt
+
+# =========================
+# Blender autosave
+# =========================
+*.blend1
+*.blend2
+*.blend3
+
+# =========================
+# Project-specific (optional safety)
+# =========================
+__pycache__/
+*.pyc
